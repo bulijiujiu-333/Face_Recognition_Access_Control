@@ -1,0 +1,13 @@
+# 虚拟环境文件夹
+face_access/
+# dlib模型文件（体积大，不提交）
+shape_predictor_68_face_landmarks.dat
+shape_predictor_68_face_landmarks.dat.bz2
+# Python缓存文件
+__pycache__/
+*.pyc
+# IDE配置文件
+.idea/
+.vscode/
+# TensorFlow缓存
+.keras/

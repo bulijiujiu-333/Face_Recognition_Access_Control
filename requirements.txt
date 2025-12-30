@@ -1,0 +1,8 @@
+opencv-python==4.8.0.76
+dlib-bin==19.24.2
+numpy==1.24.3
+scikit-learn==1.2.2
+tensorflow==2.10.0
+matplotlib==3.7.1
+pillow==9.5.0
+pyqt5==5.15.9
