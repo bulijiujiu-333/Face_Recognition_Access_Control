@@ -11,3 +11,7 @@ __pycache__/
 .vscode/
 # TensorFlow缓存
 .keras/
+# .gitignore 文件内容
+data/
+*.jpg
+test_single.jpg
